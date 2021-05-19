@@ -1,0 +1,12 @@
+use sample2
+go
+
+
+
+
+select * from tblefmvcemployee
+
+select * from tblefmvcdepartment
+
+
+FROM [sample2].[dbo].[tblEfCity]
